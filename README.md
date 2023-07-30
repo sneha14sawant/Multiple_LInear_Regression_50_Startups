@@ -12,4 +12,4 @@ Marketing Spend -- spend on Marketing in the past few years
 State -- states from which data is collected  
 Profit  -- profit of each state in the past few years  
 
-#### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/Multiple_LInear_Regression_50_Startups/tree/37473161be5c7fa79382aebe39f8fdca4724f54c/Code)
+#### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/Multiple_LInear_Regression_50_Startups/blob/37473161be5c7fa79382aebe39f8fdca4724f54c/Code/Multiple%20linear%20regression%20model----profit%20of%2050_startups.ipynb)
